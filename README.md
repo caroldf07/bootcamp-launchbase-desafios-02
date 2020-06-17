@@ -39,10 +39,6 @@
 - [Página de cursos e iframe](desafios/02-3-pagina-cursos-e-iframe.md)
 - [Construindo Foodfy](desafios/02-foodfy.md)
 
-## :calendar: Entrega
-
-Esses desafios **não precisam ser entregues** e não receberão correção. Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
