@@ -37,7 +37,11 @@
 - [Primeiro HTML](desafios/02-1-primeiro-html.md)
 - [Página de descrição](desafios/02-2-pagina-descricao.md)
 - [Página de cursos e iframe](desafios/02-3-pagina-cursos-e-iframe.md)
-- [Construindo Foodfy](desafios/02-foodfy.md)
+
+## Projeto finalizado:
+
+![](https://imgur.com/jwCQXjk)
+
 
 ## :memo: Licença
 
