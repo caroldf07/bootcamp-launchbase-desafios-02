@@ -40,7 +40,7 @@
 
 ## Projeto finalizado:
 
-![](https://imgur.com/jwCQXjk)
+![](https://imgur.com/jwCQXjk.gif)
 
 
 ## :memo: Licença
